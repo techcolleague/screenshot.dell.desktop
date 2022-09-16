@@ -1,6 +1,6 @@
 # screenshot dell desktop
 
-[![screenshot dell desktop](gett-stateed.png)](https://github.com/techcolleague/screenshot.dell.desktop)
+[![screenshot dell desktop](gett-stateed.png)](https://icncomputer.com/screenshot-dell-desktop/)
 
 While using your Dell laptop or PC, you may have found something vital or interesting. Or you may have been looking for some information and would have come across it now. To save that information, you may prefer to record a screenshot. To learn how to screenshot on Dell laptops, PCs, or other devices like Chromebook and tablets, you can use the “Print Screen” (PrtScn) key to shoot it. You can also make use of tools like Snagit and the Snipping tool for capturing the screenshot and saving it in the Screenshot folder. Later, you can share or print it as per your wish.
 
